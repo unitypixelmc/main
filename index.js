@@ -19,4 +19,4 @@ $(document)
       
     });
     
-console.log("UnityPixelMC Website [OFFICIAL]")
+console.log("UnityPixelMC Website [OFFICIAL] - Copyright (2020+) by UnityPixel, inc.")
